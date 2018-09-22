@@ -1,0 +1,1 @@
+FROM bitnami/wordpress:4.9.8-debian-9
